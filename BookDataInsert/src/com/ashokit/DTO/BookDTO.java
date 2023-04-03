@@ -5,6 +5,8 @@ public class BookDTO {
 	private String bookName;
 	private double bookPrice;
 	
+	
+	// my dto class 
 	public int getBookId() {
 		return bookId;
 	}
