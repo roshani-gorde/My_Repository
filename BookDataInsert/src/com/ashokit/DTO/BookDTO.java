@@ -4,6 +4,7 @@ public class BookDTO {
 	private int bookId;
 	private String bookName;
 	private double bookPrice;
+	int i=10;
 	
 	
 	// my dto class 
