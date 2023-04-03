@@ -4,7 +4,7 @@ public class BookDTO {
 	private int bookId;
 	private String bookName;
 	private double bookPrice;
-	
+	String str="hi";
 	
 	// my dto class 
 	public int getBookId() {
