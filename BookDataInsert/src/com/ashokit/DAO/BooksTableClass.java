@@ -10,6 +10,7 @@ import com.ashokit.util.ConnectionFactory;
 
 public class BooksTableClass {
 	Connection con=null;
+	int i=10;
 
 	public boolean insertBooksData(BookDTO dto) {
 		int count = 0;
